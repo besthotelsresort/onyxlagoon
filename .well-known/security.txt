@@ -1,0 +1,4 @@
+Contact: mailto:security@onyxlagoon.example
+Expires: 2027-07-17T11:48:47.611Z
+Preferred-Languages: en, de, fr
+Canonical: https://onyxlagoon.onrender.com/.well-known/security.txt
