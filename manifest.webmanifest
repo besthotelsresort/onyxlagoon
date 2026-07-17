@@ -1,0 +1,26 @@
+{
+  "name": "Onyx Lagoon",
+  "short_name": "Onyx",
+  "description": "Onyx Lagoon: A private coast, a quiet welcome, an unhurried stay",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#eef2ee",
+  "theme_color": "#a35c33",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
